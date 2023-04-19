@@ -1,4 +1,4 @@
-package HW;
+package HW1;
 
 import java.util.List;
 
